@@ -72,7 +72,13 @@ For production, you may configure:
 
 ## Screenshots
 
-(Add your screenshots here)
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+### Login Page
+![Login Page](screenshots/Login.png)
 
 ---
 
