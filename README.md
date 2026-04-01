@@ -85,3 +85,13 @@ Frontend runs at: `http://localhost:3000`
 - JWT tokens are required for all favourites endpoints
 - Users can only view and modify their own favourites
 - Expired tokens automatically redirect to login
+
+---
+
+## Screenshots
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
