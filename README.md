@@ -50,12 +50,13 @@ npm start
 
 ## Environment Variables
 
-Create a `.env` file in backend:
+This project does not require environment variables for local development.
 
-```
-SECRET_KEY=your_secret
-DEBUG=True
-```
+For production, you may configure:
+
+* SECRET_KEY
+* DEBUG
+
 
 ---
 
